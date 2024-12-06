@@ -1,2 +1,2 @@
 # Computer Science Programming
-Pastpaper for CAIE 9618 Computer Science Paper 4
+Past paper for CAIE Computer Sicence (9618) Paper 4
